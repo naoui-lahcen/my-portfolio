@@ -7,7 +7,7 @@ import airbnb from './assets/img/icons/common/airbnbLogo.png'
 export const greetings = {
     "name": "Lahcen Naoui",
     "title": "Hi all, I'm Lahcen Naoui",
-    "description": "I have been working as a full stack developer since 2019, the period during which I have worked in different environments, from big consultancy companies to start-ups. I am a self-motivated and self-taught professional who likes to solve problems."+
+    "description": "I have been working as a full stack developer since 2019, the period during which I have worked in different environments at a companie. I am a self-motivated and self-taught professional who likes to solve problems."+
 
     "I merge a passion for usability and user experience with technical knowledge to create cool digital experiences. My repertoire includes programming languages and tools such as Java JEE, Spring Boot/MVC, ReactJS, Angular, TypeScript, MySQL, HTML, CSS, BootStrap,Wordpress, MySQL, Git.",
     "resumeLink": "CV_Lahcen_NAOUI.pdf"
