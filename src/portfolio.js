@@ -162,9 +162,9 @@ export const SkillBars = [
 export const educationInfo = [
     {
 
-        schoolName: 'University of science and technology SETTAT',
-        subHeader: 'Licence PRO, DEVELOPMENT JAVA / JEE',
-        duration: 'September 2020 - June 2021',
+        schoolName: 'Institut Polytechnique privé de Casablanca',
+        subHeader: 'Master, DEVELOPMENT JAVA / JEE',
+        duration: 'October 2013 - June 2018',
         desc: 'Dedicated to the Intranet / Extranet but also to the Internet.',
         descBullets: [
             'Administrator / developer of software packages.',
